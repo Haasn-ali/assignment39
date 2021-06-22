@@ -74,13 +74,13 @@ header  {
 	padding-left: 1rem;
 	padding: 1.5rem 1.5rem;
 	color: white !important;
-	transition:.3s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
 
 .navbar-expand-lg .navbar-nav .nav-link:hover {
 
-	color: black !important;;
+	color: black !important;
 }
 
 
